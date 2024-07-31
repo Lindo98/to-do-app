@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+#display-task li {
+    transition: background-color 0.3;
+}
+
+.completed {
+
+    background-color: green;
+}
